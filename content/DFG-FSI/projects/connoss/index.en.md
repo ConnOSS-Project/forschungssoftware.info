@@ -14,6 +14,8 @@ authors:
 
 ## Basic information
 
+<img style="height:64px" src="https://connoss-project.github.io/images/logo.png"/>
+
 __ConnOSS (Connected Open-Source Software)__
 
 - PID: https://w3id.org/connoss
