@@ -7,14 +7,18 @@ draft: false
 series: ["FSI projects"]
 showSummary: true
 #Summary is shown on the overview page of projects
-summary: "ConnOSS is a DFG-funded research project that [...]"
+summary: "ConnOSS provides a research software metadata schema and corresponding profile together with extraction and curation tool to make it easier for research to add metadata to their research software"
 authors:
   - "jael.castro"
 ---
 
 ## Basic information
 
-[ConnOSS (Connected Open-Source Software)](https://w3id.org/connoss)
+__ConnOSS (Connected Open-Source Software)__
+
+- PID: https://w3id.org/connoss
+- URL: https://connoss-project.github.io/
+- GitHub organisation: https://github.com/ConnOSS-Project
 
 ### Duration
 
@@ -50,7 +54,7 @@ authors:
 
 ConnOSS is a DFG-funded research project that aims to help researchers showcase their software work and makes it easier for others to find and use research software. We believe that good research software should be visible, properly described, and easy to discover.
 
-ConnOSS offers an automated infrastructure that generates consistent, harmonized, and enriched metadata for research software. Unlike manual metadata creation, which is time-consuming, or existing tools with limited coverage, ConnOSS streamlines the process—enabling researchers to enhance the visibility and FAIRness of their software with minimal effort.
+ConnOSS offers an automated infrastructure that generates consistent, harmonised, and enriched metadata for research software. Unlike manual metadata creation, which is time-consuming, or existing tools with limited coverage, ConnOSS streamlines the process—enabling researchers to enhance the visibility and FAIRness of their software with minimal effort.
 
 ## Resulting services
 

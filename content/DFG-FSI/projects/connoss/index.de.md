@@ -7,14 +7,18 @@ draft: false
 series: ["FSI projects"]
 showSummary: true
 #Summary is shown on the overview page of projects
-summary: "Lorem Ipsum"
+summary: "ConnOSS stellt ein Metadatenschema für Forschungssoftware sowie ein entsprechendes Profil zusammen mit Tools zur Extraktion und Kuratierung bereit, um es Forschenden zu erleichtern, ihre Forschungssoftware mit Metadaten zu versehen."
 authors:
   - "jael.castro"
 ---
 
 ## Grundlegende Informationen
 
-[ConnOSS (Connected Open-Source Software)](https://w3id.org/connoss)
+__ConnOSS (Connected Open-Source Software)__
+
+- PID: https://w3id.org/connoss
+- URL: https://connoss-project.github.io/
+- GitHub Organisation: https://github.com/ConnOSS-Project
 
 ### Laufzeit
 
