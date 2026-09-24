@@ -8,6 +8,8 @@ series: ["FSI services"]
 showSummary: true
 #Summary is shown on the overview page of services
 summary: "CoMET-RS automates the extraction of metadata from GitHub, GitLab, and Codeberg repositories, generating machine-actionable metadata in JSON-LD to improve FAIRness, discoverability, and reuse of research software."
+authors:
+  - "lukas.hassel"
 ---
 
 <p align="center">
