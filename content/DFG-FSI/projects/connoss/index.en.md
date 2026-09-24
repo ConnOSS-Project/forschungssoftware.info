@@ -7,7 +7,7 @@ draft: false
 series: ["FSI projects"]
 showSummary: true
 #Summary is shown on the overview page of projects
-summary: "Lorem Ipsum"
+summary: "ConnOSS is a DFG-funded research project that [...]"
 authors:
   - "jael.castro"
 ---
@@ -54,6 +54,6 @@ ConnOSS offers an automated infrastructure that generates consistent, harmonized
 
 ## Resulting services
 
-- [ConnOSS metadata schema and profile](../../services/connoss_metadata) 
-- [CoMET-RS metadata extraction back-end](../../services/connoss_cometrs)
-- [SMECS metadata curation front-end](../../services/smecs)
+- [ConnOSS metadata schema and profile](../../services/connoss_metadata/index.en.md) 
+- [CoMET-RS metadata extraction back-end](../../services/comet/index.en.md)
+- [SMECS metadata curation front-end](../../services/smecs/index.en.md)
